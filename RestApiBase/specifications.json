@@ -1,0 +1,5 @@
+ {
+   "nb_zones":6,
+   "nom_zone_chauffe":["Z1","Z2","Z3","Z4","Z5","Z6"],
+   "autre_zone":["Exterieur"]
+ }
