@@ -5,4 +5,4 @@ Application permettant de contrôler et manipuler une thermoformeuse de construc
 
 Une image de l'interface de l'application
 
-![Interface principale](https://lee12ndibs.github.com/images/main_interface.png)
+![Interface principale](https://lee12ndibs.github.com/main_interface.png)
