@@ -5,4 +5,4 @@ Application permettant de contrôler et manipuler une thermoformeuse de construc
 
 Une image de l'interface de l'application
 
-![Interface principale](https://lee12ndibs.github.com/ihm_thermoformeuse_plan3d/main_interface.png)
+![Interface principale](https://github.com/lee12ndibs/ihm_thermoformeuse_plan3d/blob/master/main_interface.png)
